@@ -119,7 +119,7 @@
 @import url('https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css');
 
 :root {
-    --Update-Text: " Pasted By Dean1337";
+    --Update-Text: "Dean1337";
     --File-Updated-2020-5-24: url(https://nfld99.com/images/RDLTF.png);
     --Settings-Dock-Colour: var(--Main-Colour);
     --BetterDocsBlockerWhite: var(--Main-Colour);
@@ -188,7 +188,7 @@
 
 /* THANK YOU URI FOR HELPING ME UPDATE THIS <3 */
 body:before {
-    content: "Currently On" var(--Update-Text);
+    content: "Pasted By" var(--Update-Text);
     background: var(--Background-Colour);
     border: 1px solid var(--Main-Colour);
     left: 50%;
