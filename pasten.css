@@ -117,7 +117,7 @@
 
 /* THANK YOU URI FOR HELPING ME UPDATE THIS <3 */
 body:before {
-    content: " pAsTeD bY " var(--Update-Text);
+    content: " Version : " var(--Update-Text);
     background: var(--Background-Colour);
     border: 1px solid var(--Main-Colour);
     left: 50%;
